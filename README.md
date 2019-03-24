@@ -10,7 +10,7 @@ This workflow allows to bind hotkeys for common Yandex.Music actions (play/pause
 
 <img src="https://i.ibb.co/bvQV9Ts/2019-03-24-21-38-27.png" width="500">
 
-4. Activate Develop menu in preferences:
+4. Activate Develop menu in Safari preferences:
 
 <img src="https://i.ibb.co/LN8CJcG/2019-03-24-21-48-47-2.png" width="500">
 
